@@ -31,4 +31,4 @@
 
 ;(sqrt-iter 1 4)
 
-(sqrt-iter-new 1.0 4)
+(sqrt-iter-new 1.0 1000000)
